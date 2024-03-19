@@ -72,6 +72,3 @@ Navigate through multistage graphs and find optimal paths with ease.
 
 ## Practical -16: Kruskal's 🌐
 Construct Minimum Spanning Trees using Kruskal's algorithm, a key player in network design and optimization.
-```
-
-Feel free to customize it further or let me know if there's anything else you'd like to add or modify!
