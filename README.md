@@ -1,7 +1,7 @@
 ## Name - Aditya Pathania
 ## Roll No - UE223007
 
-# 🚀 Algorithms and Their Complexity Analysis 📊
+# 🚀 Analysis & Design of Algorithm 📊
 
 Welcome to the repository showcasing various algorithms and their time complexity analysis! Dive into the world of efficient coding and algorithmic mastery.
 
