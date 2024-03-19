@@ -1,4 +1,5 @@
-Here's an updated version of your README.md file with added emoji, improved language, and time complexity information for the codes:
+## Name - Aditya Pathania
+## Roll No - UE223007
 
 # 🚀 Algorithms and Their Complexity Analysis 📊
 
