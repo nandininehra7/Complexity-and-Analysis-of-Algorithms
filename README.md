@@ -1,5 +1,5 @@
-## Name - Aditya Pathania
-## Roll No - UE223007
+## Name - Nandini Nehra
+## Roll No - UE225058
 
 # 🚀 Analysis & Design of Algorithm 📊
 
